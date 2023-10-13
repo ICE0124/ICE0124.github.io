@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="0124" name="ICE0124.github.io" version="1.0" provider-name="ICE0124">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/ICE0124/ICE0124.github.io/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/ICE0124/ICE0124.github.io/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/ICE0124/ICE0124.github.io/main/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>ICE0124.github.io</summary>
+        <description>ICE Repo Installer</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
